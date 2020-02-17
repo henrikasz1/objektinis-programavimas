@@ -1,1 +1,1 @@
-# objektinis-programavimas
+# pasisveikinimo_uzduotis
